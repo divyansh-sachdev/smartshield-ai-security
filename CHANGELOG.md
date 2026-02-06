@@ -1,2 +1,3 @@
 - **2026-02-03 16:20:13**: feat: add hardware failsafe watchdog timer routine
 - **2026-02-04 11:10:41**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-02-06 16:30:33**: fix: prevent buffer underflow during rapid sensor reads
