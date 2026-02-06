@@ -2,3 +2,4 @@
 - **2026-02-04 11:10:41**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-02-06 16:30:33**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-02-06 20:53:22**: test: verify timer interrupt latency under heavy load
+- **2026-02-06 21:32:23**: test: validate thermal stability over continuous 6-hour test run
