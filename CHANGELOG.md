@@ -6,3 +6,4 @@
 - **2026-02-07 15:09:31**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-02-07 19:12:25**: fix: resolve floating point conversion precision issue
 - **2026-02-09 10:26:14**: fix: prevent buffer underflow during rapid sensor reads
+- **2026-02-10 19:18:44**: feat: add EEPROM configuration persistence for user settings
