@@ -9,3 +9,4 @@
 - **2026-02-10 19:18:44**: feat: add EEPROM configuration persistence for user settings
 - **2026-02-12 18:27:37**: docs: add circuit wiring pinout and power consumption profile
 - **2026-02-13 15:17:22**: test: validate thermal stability over continuous 6-hour test run
+- **2026-02-15 16:34:25**: fix: handle edge case timeout in sensor initialization loop
