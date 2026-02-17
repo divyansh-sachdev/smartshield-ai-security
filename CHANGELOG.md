@@ -10,3 +10,4 @@
 - **2026-02-12 18:27:37**: docs: add circuit wiring pinout and power consumption profile
 - **2026-02-13 15:17:22**: test: validate thermal stability over continuous 6-hour test run
 - **2026-02-15 16:34:25**: fix: handle edge case timeout in sensor initialization loop
+- **2026-02-17 10:10:25**: docs: update README setup instructions and dependencies
