@@ -12,3 +12,4 @@
 - **2026-02-15 16:34:25**: fix: handle edge case timeout in sensor initialization loop
 - **2026-02-17 10:10:25**: docs: update README setup instructions and dependencies
 - **2026-02-17 11:08:44**: feat: implement moving average filter for noise suppression
+- **2026-02-18 10:29:26**: feat: add dynamic threshold adaptation for environmental drift
