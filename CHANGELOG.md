@@ -17,3 +17,4 @@
 - **2026-02-21 15:08:47**: feat: implement moving average filter for noise suppression
 - **2026-02-23 10:08:47**: test: verify timer interrupt latency under heavy load
 - **2026-02-23 19:37:43**: feat: add hardware failsafe watchdog timer routine
+- **2026-02-24 21:09:25**: feat: add visual status LED pulse code for diagnostic mode
