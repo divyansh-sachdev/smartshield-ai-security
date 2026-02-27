@@ -20,3 +20,4 @@
 - **2026-02-24 21:09:25**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-02-25 18:47:47**: fix: handle edge case timeout in sensor initialization loop
 - **2026-02-25 21:38:30**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2026-02-27 18:13:29**: refactor: modularize signal processing functions into separate header
