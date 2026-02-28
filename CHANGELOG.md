@@ -22,3 +22,4 @@
 - **2026-02-25 21:38:30**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-02-27 18:13:29**: refactor: modularize signal processing functions into separate header
 - **2026-02-27 19:25:14**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-02-28 21:11:14**: fix: prevent buffer underflow during rapid sensor reads
