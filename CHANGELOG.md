@@ -25,3 +25,4 @@
 - **2026-02-28 21:11:14**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-03-04 14:21:17**: fix: handle edge case timeout in sensor initialization loop
 - **2026-03-04 16:47:16**: feat: add EEPROM configuration persistence for user settings
+- **2026-03-04 20:05:45**: refactor: modularize signal processing functions into separate header
