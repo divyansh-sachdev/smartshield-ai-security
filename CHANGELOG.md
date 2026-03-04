@@ -24,3 +24,4 @@
 - **2026-02-27 19:25:14**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-02-28 21:11:14**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-03-04 14:21:17**: fix: handle edge case timeout in sensor initialization loop
+- **2026-03-04 16:47:16**: feat: add EEPROM configuration persistence for user settings
