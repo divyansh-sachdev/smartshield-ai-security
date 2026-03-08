@@ -27,3 +27,4 @@
 - **2026-03-04 16:47:16**: feat: add EEPROM configuration persistence for user settings
 - **2026-03-04 20:05:45**: refactor: modularize signal processing functions into separate header
 - **2026-03-06 16:23:48**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-03-08 11:45:37**: test: verify timer interrupt latency under heavy load
