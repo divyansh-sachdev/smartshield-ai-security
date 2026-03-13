@@ -30,3 +30,4 @@
 - **2026-03-08 11:45:37**: test: verify timer interrupt latency under heavy load
 - **2026-03-12 18:13:12**: feat: implement low-power light sleep mode during idle intervals
 - **2026-03-12 21:40:19**: refactor: simplify state machine transition logic
+- **2026-03-13 17:18:25**: docs: document serial protocol packet structure and error codes
