@@ -32,3 +32,4 @@
 - **2026-03-12 21:40:19**: refactor: simplify state machine transition logic
 - **2026-03-13 17:18:25**: docs: document serial protocol packet structure and error codes
 - **2026-03-15 18:06:21**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-03-16 18:47:25**: refactor: simplify state machine transition logic
