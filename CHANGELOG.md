@@ -34,3 +34,4 @@
 - **2026-03-15 18:06:21**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-03-16 18:47:25**: refactor: simplify state machine transition logic
 - **2026-03-17 19:19:22**: test: verify timer interrupt latency under heavy load
+- **2026-03-19 15:19:11**: docs: document serial protocol packet structure and error codes
