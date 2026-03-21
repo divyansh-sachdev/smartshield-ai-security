@@ -37,3 +37,4 @@
 - **2026-03-19 15:19:11**: docs: document serial protocol packet structure and error codes
 - **2026-03-19 15:30:31**: test: verify timer interrupt latency under heavy load
 - **2026-03-20 16:27:42**: feat: implement low-power light sleep mode during idle intervals
+- **2026-03-21 16:16:47**: fix: resolve floating point conversion precision issue
