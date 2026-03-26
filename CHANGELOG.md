@@ -42,3 +42,4 @@
 - **2026-03-23 11:29:46**: test: verify timer interrupt latency under heavy load
 - **2026-03-23 18:43:42**: docs: update README setup instructions and dependencies
 - **2026-03-26 11:47:31**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-03-26 15:28:37**: fix: prevent buffer underflow during rapid sensor reads
