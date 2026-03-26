@@ -41,3 +41,4 @@
 - **2026-03-21 17:06:17**: fix: handle edge case timeout in sensor initialization loop
 - **2026-03-23 11:29:46**: test: verify timer interrupt latency under heavy load
 - **2026-03-23 18:43:42**: docs: update README setup instructions and dependencies
+- **2026-03-26 11:47:31**: fix: calibrate baseline sensor offset against reference multimeter
