@@ -43,3 +43,4 @@
 - **2026-03-23 18:43:42**: docs: update README setup instructions and dependencies
 - **2026-03-26 11:47:31**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-03-26 15:28:37**: fix: prevent buffer underflow during rapid sensor reads
+- **2026-03-27 17:30:28**: perf: tune I2C bus frequency to 400kHz for sensor polling
