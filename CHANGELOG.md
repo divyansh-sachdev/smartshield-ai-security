@@ -45,3 +45,4 @@
 - **2026-03-26 15:28:37**: fix: prevent buffer underflow during rapid sensor reads
 - **2026-03-27 17:30:28**: perf: tune I2C bus frequency to 400kHz for sensor polling
 - **2026-03-27 20:24:36**: feat: add hardware failsafe watchdog timer routine
+- **2026-03-29 18:40:10**: refactor: optimize ADC sampling window and reduce jitter
