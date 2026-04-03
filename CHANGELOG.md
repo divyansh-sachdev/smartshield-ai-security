@@ -47,3 +47,4 @@
 - **2026-03-27 20:24:36**: feat: add hardware failsafe watchdog timer routine
 - **2026-03-29 18:40:10**: refactor: optimize ADC sampling window and reduce jitter
 - **2026-03-31 19:33:38**: feat: implement low-power light sleep mode during idle intervals
+- **2026-04-03 11:23:42**: fix: handle edge case timeout in sensor initialization loop
