@@ -49,3 +49,4 @@
 - **2026-03-31 19:33:38**: feat: implement low-power light sleep mode during idle intervals
 - **2026-04-03 11:23:42**: fix: handle edge case timeout in sensor initialization loop
 - **2026-04-03 15:48:29**: refactor: clean up debug logs and serial telemetry
+- **2026-04-03 21:26:15**: refactor: modularize signal processing functions into separate header
