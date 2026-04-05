@@ -51,3 +51,4 @@
 - **2026-04-03 15:48:29**: refactor: clean up debug logs and serial telemetry
 - **2026-04-03 21:26:15**: refactor: modularize signal processing functions into separate header
 - **2026-04-04 14:06:12**: docs: document serial protocol packet structure and error codes
+- **2026-04-05 21:54:14**: perf: tune FreeRTOS task priority to eliminate frame drops
