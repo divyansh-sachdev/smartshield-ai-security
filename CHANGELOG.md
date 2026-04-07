@@ -53,3 +53,4 @@
 - **2026-04-04 14:06:12**: docs: document serial protocol packet structure and error codes
 - **2026-04-05 21:54:14**: perf: tune FreeRTOS task priority to eliminate frame drops
 - **2026-04-06 11:54:37**: refactor: simplify state machine transition logic
+- **2026-04-07 20:20:17**: feat: implement low-power light sleep mode during idle intervals
