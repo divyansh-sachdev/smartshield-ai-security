@@ -59,3 +59,4 @@
 - **2026-04-10 19:21:25**: feat: implement low-power light sleep mode during idle intervals
 - **2026-04-13 15:29:19**: test: benchmark inference execution speed on ESP32 dual-core
 - **2026-04-20 19:19:27**: feat: add visual status LED pulse code for diagnostic mode
+- **2026-04-20 20:43:24**: fix: calibrate baseline sensor offset against reference multimeter
