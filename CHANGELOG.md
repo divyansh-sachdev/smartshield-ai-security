@@ -58,3 +58,4 @@
 - **2026-04-08 21:51:42**: test: validate thermal stability over continuous 6-hour test run
 - **2026-04-10 19:21:25**: feat: implement low-power light sleep mode during idle intervals
 - **2026-04-13 15:29:19**: test: benchmark inference execution speed on ESP32 dual-core
+- **2026-04-20 19:19:27**: feat: add visual status LED pulse code for diagnostic mode
