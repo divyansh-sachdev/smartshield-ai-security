@@ -61,3 +61,4 @@
 - **2026-04-20 19:19:27**: feat: add visual status LED pulse code for diagnostic mode
 - **2026-04-20 20:43:24**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-04-21 19:13:49**: feat: implement low-power light sleep mode during idle intervals
+- **2026-04-22 14:34:21**: test: verify timer interrupt latency under heavy load
