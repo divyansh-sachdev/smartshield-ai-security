@@ -65,3 +65,4 @@
 - **2026-04-27 21:14:25**: docs: add circuit wiring pinout and power consumption profile
 - **2026-04-29 10:24:46**: feat: add EEPROM configuration persistence for user settings
 - **2026-04-29 11:54:20**: refactor: optimize ADC sampling window and reduce jitter
+- **2026-04-30 11:42:50**: feat: add dynamic threshold adaptation for environmental drift
