@@ -68,3 +68,4 @@
 - **2026-04-30 11:42:50**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-05-02 10:31:41**: fix: resolve floating point conversion precision issue
 - **2026-05-03 19:50:19**: perf: tune I2C bus frequency to 400kHz for sensor polling
+- **2026-05-05 15:10:27**: perf: optimize memory footprint by reducing ring buffer depth
