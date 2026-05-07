@@ -71,3 +71,4 @@
 - **2026-05-05 15:10:27**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-05-05 21:22:30**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-05-07 17:06:41**: docs: document serial protocol packet structure and error codes
+- **2026-05-07 21:44:34**: fix: resolve floating point conversion precision issue
