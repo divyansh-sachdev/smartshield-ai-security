@@ -72,3 +72,4 @@
 - **2026-05-05 21:22:30**: feat: add dynamic threshold adaptation for environmental drift
 - **2026-05-07 17:06:41**: docs: document serial protocol packet structure and error codes
 - **2026-05-07 21:44:34**: fix: resolve floating point conversion precision issue
+- **2026-05-09 17:21:31**: test: verify timer interrupt latency under heavy load
