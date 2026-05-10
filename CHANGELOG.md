@@ -74,3 +74,4 @@
 - **2026-05-07 21:44:34**: fix: resolve floating point conversion precision issue
 - **2026-05-09 17:21:31**: test: verify timer interrupt latency under heavy load
 - **2026-05-10 15:51:36**: fix: calibrate baseline sensor offset against reference multimeter
+- **2026-05-10 16:40:10**: feat: add EEPROM configuration persistence for user settings
