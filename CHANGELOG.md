@@ -76,3 +76,4 @@
 - **2026-05-10 15:51:36**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-05-10 16:40:10**: feat: add EEPROM configuration persistence for user settings
 - **2026-05-10 20:17:15**: docs: clarify licensing and hardware bill of materials
+- **2026-05-11 19:46:41**: feat: implement low-power light sleep mode during idle intervals
