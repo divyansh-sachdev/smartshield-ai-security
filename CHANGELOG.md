@@ -78,3 +78,4 @@
 - **2026-05-10 20:17:15**: docs: clarify licensing and hardware bill of materials
 - **2026-05-11 19:46:41**: feat: implement low-power light sleep mode during idle intervals
 - **2026-05-14 19:22:29**: docs: document serial protocol packet structure and error codes
+- **2026-05-14 20:26:32**: perf: tune FreeRTOS task priority to eliminate frame drops
