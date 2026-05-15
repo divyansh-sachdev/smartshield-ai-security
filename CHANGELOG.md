@@ -79,3 +79,4 @@
 - **2026-05-11 19:46:41**: feat: implement low-power light sleep mode during idle intervals
 - **2026-05-14 19:22:29**: docs: document serial protocol packet structure and error codes
 - **2026-05-14 20:26:32**: perf: tune FreeRTOS task priority to eliminate frame drops
+- **2026-05-15 15:25:17**: feat: implement moving average filter for noise suppression
