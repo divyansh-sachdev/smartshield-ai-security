@@ -82,3 +82,4 @@
 - **2026-05-15 15:25:17**: feat: implement moving average filter for noise suppression
 - **2026-05-18 15:52:40**: feat: add EEPROM configuration persistence for user settings
 - **2026-05-20 20:13:27**: feat: implement moving average filter for noise suppression
+- **2026-05-21 16:35:40**: perf: optimize memory footprint by reducing ring buffer depth
