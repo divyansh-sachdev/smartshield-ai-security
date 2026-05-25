@@ -85,3 +85,4 @@
 - **2026-05-21 16:35:40**: perf: optimize memory footprint by reducing ring buffer depth
 - **2026-05-22 10:21:40**: docs: document serial protocol packet structure and error codes
 - **2026-05-23 18:36:14**: feat: add hardware failsafe watchdog timer routine
+- **2026-05-25 14:41:29**: docs: document serial protocol packet structure and error codes
