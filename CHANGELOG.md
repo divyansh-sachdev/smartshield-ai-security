@@ -91,3 +91,4 @@
 - **2026-05-27 18:33:38**: fix: calibrate baseline sensor offset against reference multimeter
 - **2026-05-28 16:47:15**: docs: document serial protocol packet structure and error codes
 - **2026-05-30 10:19:28**: refactor: clean up debug logs and serial telemetry
+- **2026-05-30 21:35:28**: test: benchmark inference execution speed on ESP32 dual-core
